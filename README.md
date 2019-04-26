@@ -6,4 +6,5 @@ We all have used apps like Prisma and Lucid, but have you wondered how these thi
 Style transfer is the technique of recomposing images in the style of other images. It all started when Gatys et al. published an awesome paper on how it was actually possible to transfer artistic style from one painting to another picture using convolutional neural networks
 
 ### Example:
-
+<br>
+<img src="images/demo.jpeg">
