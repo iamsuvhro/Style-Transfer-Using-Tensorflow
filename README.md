@@ -1,6 +1,8 @@
 [![Status](https://img.shields.io/badge/status-maintained-brightgreen.svg?style=for-the-badge)]()
 [![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)]()
 
+<img src="images/tensorflow.png" height=20%; width=90%>
+
 # Style-Transfer-Using-Tensorflow
 ## Introduction:
 
