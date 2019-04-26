@@ -8,3 +8,21 @@ Style transfer is the technique of recomposing images in the style of other imag
 ### Example:
 <br>
 <img src="images/demo.jpeg">
+<br>
+
+# VGG Network:
+
+<img src="images/vgg16.png">
+<br>
+All winning architectures of ImageNet Large Scale Visual Recognition Challenge in recent years have been some form of convolutional neural network — with the most recent winners even being able to surpass human level performance!
+
+In 2014, the winner of the ImageNet challenge was a network created by Visual Geometry Group (VGG) at Oxford University, achieving a classification error rate of only 7.0%. Gatys et. al use this network — which has been trained to be extremely effective at object recognition — as a basis for trying to extract content and style representations from images.
+
+## Result:
+
+<img src="images/demo2.jpg"> 
+<b>+<b> 
+<img src="images/style.png">
+  
+### Output:
+<img src="images/style_transfer.png">
